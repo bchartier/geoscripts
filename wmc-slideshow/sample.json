@@ -1,0 +1,15 @@
+{
+  "title": "600_400_png",
+  "project_dir": "./projects",
+  "csv_file": "sample.csv",
+  "csv_wmc_url_column" : "Permalink",
+  "output": {
+    "output_dir_name": "sample",
+    "images_dir_name": "images",
+    "contexts_dir_name": "contexts",
+    "image_width": 600,
+    "image_height": 400,
+    "image_format": "image/png",
+    "image_file_ext": ".png"
+  }
+}
